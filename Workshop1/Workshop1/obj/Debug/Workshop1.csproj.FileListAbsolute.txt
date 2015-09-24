@@ -1,0 +1,12 @@
+E:\My Documents\Github\LevelOneProgramming\Workshop1\Workshop1\bin\Debug\Workshop1.exe.config
+E:\My Documents\Github\LevelOneProgramming\Workshop1\Workshop1\obj\Debug\Workshop1.csprojResolveAssemblyReference.cache
+E:\My Documents\Github\LevelOneProgramming\Workshop1\Workshop1\bin\Debug\Workshop1.exe
+E:\My Documents\Github\LevelOneProgramming\Workshop1\Workshop1\bin\Debug\Workshop1.pdb
+E:\My Documents\Github\LevelOneProgramming\Workshop1\Workshop1\obj\Debug\Workshop1.exe
+E:\My Documents\Github\LevelOneProgramming\Workshop1\Workshop1\obj\Debug\Workshop1.pdb
+E:\My Documents\Github\Level1Programming\Workshop1\Workshop1\bin\Debug\Workshop1.exe.config
+E:\My Documents\Github\Level1Programming\Workshop1\Workshop1\obj\Debug\Workshop1.exe
+E:\My Documents\Github\Level1Programming\Workshop1\Workshop1\obj\Debug\Workshop1.pdb
+E:\My Documents\Github\Level1Programming\Workshop1\Workshop1\bin\Debug\Workshop1.exe
+E:\My Documents\Github\Level1Programming\Workshop1\Workshop1\bin\Debug\Workshop1.pdb
+E:\My Documents\Github\Level1Programming\Workshop1\Workshop1\obj\Debug\Workshop1.csprojResolveAssemblyReference.cache
