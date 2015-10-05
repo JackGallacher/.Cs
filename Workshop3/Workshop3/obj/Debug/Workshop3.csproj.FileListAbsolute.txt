@@ -1,0 +1,6 @@
+E:\My Documents\Github\LevelOneProgramming\Workshop3\Workshop3\bin\Debug\Workshop3.exe.config
+E:\My Documents\Github\LevelOneProgramming\Workshop3\Workshop3\bin\Debug\Workshop3.exe
+E:\My Documents\Github\LevelOneProgramming\Workshop3\Workshop3\bin\Debug\Workshop3.pdb
+E:\My Documents\Github\LevelOneProgramming\Workshop3\Workshop3\obj\Debug\Workshop3.csprojResolveAssemblyReference.cache
+E:\My Documents\Github\LevelOneProgramming\Workshop3\Workshop3\obj\Debug\Workshop3.exe
+E:\My Documents\Github\LevelOneProgramming\Workshop3\Workshop3\obj\Debug\Workshop3.pdb
