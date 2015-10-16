@@ -79,6 +79,67 @@ namespace Workshop4
             }
             Console.ReadLine();
         }
+        public static void if_else()
+        {
+            int input = 0;
+            Console.WriteLine("Input an Int: ");
+            input = Convert.ToInt32(Console.ReadLine());
+
+            if(input < 0)
+            {
+                input = input - 2;
+                Console.WriteLine("Int is negative, -2 taken away, value is: {0}", input);
+            }
+            else
+            {
+                input++;
+                Console.WriteLine("Int is positive, +1 added, value is: {0}", input);
+            }
+            Console.ReadLine();
+        }
+        public static void my_switch()
+        {
+            int input = 0;
+            int season = 0;
+            Console.WriteLine("Enter number of the month: ");
+            input = Convert.ToInt32(Console.ReadLine());
+
+            if(input > 0 && input <= 3)
+            {
+                season = 1;
+            }
+            if (input > 3 && input <= 6)
+            {
+                season = 2;
+            }
+            if (input > 6 && input <= 9)
+            {
+                season = 3;
+            }
+            if (input > 9 && input <= 12)
+            {
+                season = 4;
+            }
+            switch (season)
+            {
+                case 1:
+                    Console.WriteLine("Season is Spring\n");
+                    break;
+                case 2:
+                    Console.WriteLine("Season is Summer\n");
+                    break;
+                case 3:
+                    Console.WriteLine("Season is Autumn\n");
+                    break;
+                case 4:
+                    Console.WriteLine("Season is Winter\n");
+                    break;      
+                default:
+                    Console.WriteLine("Error\n");
+                    break;
+            }
+            Console.ReadLine();
+        }           
     }
 
 
@@ -86,9 +147,11 @@ namespace Workshop4
     {
         static void Main(string[] args)
         {
-            //Tasks.number_checker();
-            //Tasks.temperature_switch();
+            Tasks.number_checker();
+            Tasks.temperature_switch();
             Tasks.logic();
+            Tasks.if_else();
+            Tasks.my_switch();
         }
     }
 }
