@@ -1,0 +1,6 @@
+E:\My Documents\Github\Level1Programming\Workshop5\Workshop5\bin\Debug\Workshop5.exe.config
+E:\My Documents\Github\Level1Programming\Workshop5\Workshop5\bin\Debug\Workshop5.exe
+E:\My Documents\Github\Level1Programming\Workshop5\Workshop5\bin\Debug\Workshop5.pdb
+E:\My Documents\Github\Level1Programming\Workshop5\Workshop5\obj\Debug\Workshop5.csprojResolveAssemblyReference.cache
+E:\My Documents\Github\Level1Programming\Workshop5\Workshop5\obj\Debug\Workshop5.exe
+E:\My Documents\Github\Level1Programming\Workshop5\Workshop5\obj\Debug\Workshop5.pdb
