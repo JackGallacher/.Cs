@@ -20,7 +20,7 @@ namespace Workshop5
             {
                 cost = quantity * 4.0;
             }
-            if (quantity >= 81 && quantity <= 100)
+            if (quantity >= 81 && quantity <= 100 || quantity > 100)
             {
                 cost = quantity * 2.5;
             }
@@ -77,14 +77,28 @@ namespace Workshop5
                     continue;
                 }
             }
-        }     
+        } 
+        public static void Task_3()
+        {
+            int fibonacci = 1;
+            int previous = 0;
+
+            for(int i = 0; i <= 20; i++)
+            {
+                fibonacci = fibonacci + previous;
+                Console.Write("{0}, ", fibonacci);
+                previous = fibonacci - previous;
+            }
+            Console.ReadLine();
+        }    
     }
     class Program
     {
         static void Main(string[] args)
         {
-            Tasks.Task_1();
-            Tasks.Task_2();
+            //Tasks.Task_1();
+            //Tasks.Task_2();
+            Tasks.Task_3();
         }
     }
 }
