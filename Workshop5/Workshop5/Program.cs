@@ -90,7 +90,24 @@ namespace Workshop5
                 previous = fibonacci - previous;
             }
             Console.ReadLine();
-        }    
+        } 
+         
+        public static void Task_4()
+        {
+            decimal total_ran = 10;//initial distance ran.
+            int days_ran = 0;//total day ran
+            int run_increase_percentage = 4;//percentage increase from initial run
+
+            do
+            {
+                total_ran += (total_ran / 100) * run_increase_percentage;
+                days_ran++;
+                Console.WriteLine("Day {0} - {1}", days_ran, Math.Round(total_ran, 1));//outputs day and rounds distance to 1 decimal place.
+            } while (total_ran <= 200);
+
+            Console.WriteLine("\n200km reched in {0} days, with a percentage increase of {1}", days_ran, run_increase_percentage);
+            Console.ReadLine();
+        }   
     }
     class Program
     {
@@ -98,7 +115,8 @@ namespace Workshop5
         {
             //Tasks.Task_1();
             //Tasks.Task_2();
-            Tasks.Task_3();
+            //Tasks.Task_3();
+            Tasks.Task_4();
         }
     }
 }
