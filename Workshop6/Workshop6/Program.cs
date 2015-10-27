@@ -60,21 +60,17 @@ namespace Workshop6
             Console.WriteLine("Input a string: ");
             input = Console.ReadLine();
 
-            foreach(char x in input)
+            foreach(char x in input)//reverse string.
             {
                 result = x + result;
             }
-            for(int y = 0; y < result.Length; y++)
+            foreach (char y in result)//reverse string.
             {
-                Console.Write(result[y]);
-                if (result[y] != ' ')
-                {
-                    Console.Write(" ");
-                }
-                else
+                if(y == ' ')
                 {
                     continue;
                 }
+                Console.Write(y + " ");
             }
         }
     }
