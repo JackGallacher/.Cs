@@ -62,16 +62,13 @@ namespace Workshop6
 
             foreach(char x in input)//reverse string.
             {
-                result = x + result;
-            }
-            foreach (char y in result)//reverse string.
-            {
-                if(y == ' ')
+                if (x == ' ')
                 {
                     continue;
                 }
-                Console.Write(y + " ");
+                result = x + " " + result;
             }
+            Console.Write(result);
         }
     }
     class Program
