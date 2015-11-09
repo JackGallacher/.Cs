@@ -1,0 +1,1 @@
+This program allows you to type in a string of character or import a text file, the program will then analysis the text and give you basic information about it such as word count, nouns, amount of letter ext. It also saves all words over 5 letters to a seperate text file. 

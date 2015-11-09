@@ -1,0 +1,12 @@
+E:\My Documents\Github\TextAnalysis\TextAnalysis\TextAnalysis\bin\Debug\TextAnalysis.exe.config
+E:\My Documents\Github\TextAnalysis\TextAnalysis\TextAnalysis\bin\Debug\TextAnalysis.exe
+E:\My Documents\Github\TextAnalysis\TextAnalysis\TextAnalysis\bin\Debug\TextAnalysis.pdb
+E:\My Documents\Github\TextAnalysis\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.csprojResolveAssemblyReference.cache
+E:\My Documents\Github\TextAnalysis\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.exe
+E:\My Documents\Github\TextAnalysis\TextAnalysis\TextAnalysis\obj\Debug\TextAnalysis.pdb
+E:\My Documents\Github\Csharp\Text Analysis\TextAnalysis\bin\Debug\TextAnalysis.exe.config
+E:\My Documents\Github\Csharp\Text Analysis\TextAnalysis\obj\Debug\TextAnalysis.exe
+E:\My Documents\Github\Csharp\Text Analysis\TextAnalysis\obj\Debug\TextAnalysis.pdb
+E:\My Documents\Github\Csharp\Text Analysis\TextAnalysis\bin\Debug\TextAnalysis.exe
+E:\My Documents\Github\Csharp\Text Analysis\TextAnalysis\bin\Debug\TextAnalysis.pdb
+E:\My Documents\Github\Csharp\Text Analysis\TextAnalysis\obj\Debug\TextAnalysis.csprojResolveAssemblyReference.cache
