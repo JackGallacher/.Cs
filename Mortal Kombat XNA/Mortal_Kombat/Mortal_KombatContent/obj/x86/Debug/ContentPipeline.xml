@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Scorpion.png</Source>
+      <Name>Scorpion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\Scorpion.xnb</Output>
+      <Time>2014-04-05T15:12:58.840266+01:00</Time>
+    </Item>
+    <Item>
+      <Source>LiuKang.png</Source>
+      <Name>LiuKang</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\LiuKang.xnb</Output>
+      <Time>2014-04-05T15:24:15.6280655+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background.png</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\Background.xnb</Output>
+      <Time>2014-04-05T15:34:52.2077302+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthBar.png</Source>
+      <Name>HealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\HealthBar.xnb</Output>
+      <Time>2014-04-07T15:20:24.7730362+01:00</Time>
+    </Item>
+    <Item>
+      <Source>LKWins.mp3</Source>
+      <Name>LKWins</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\LKWins.xnb</Output>
+      <Extra>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\LKWins.wma</Extra>
+      <Time>2014-04-07T20:24:18.3187904+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fight.mp3</Source>
+      <Name>Fight</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\Fight.xnb</Output>
+      <Extra>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\Fight.wma</Extra>
+      <Time>2014-04-07T20:24:20.2196094+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SWins.mp3</Source>
+      <Name>SWins</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\SWins.xnb</Output>
+      <Extra>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\SWins.wma</Extra>
+      <Time>2014-04-07T20:24:21.9815192+01:00</Time>
+    </Item>
+    <Item>
+      <Source>LKPunch.wav</Source>
+      <Name>LKPunch</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\LKPunch.xnb</Output>
+      <Time>2014-04-08T00:03:57.8839388+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SPunch.wav</Source>
+      <Name>SPunch</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\SPunch.xnb</Output>
+      <Time>2014-04-08T00:06:43.6233471+01:00</Time>
+    </Item>
+    <Item>
+      <Source>LKKick.wav</Source>
+      <Name>LKKick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\LKKick.xnb</Output>
+      <Time>2014-04-08T00:17:00.5292999+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SKick.wav</Source>
+      <Name>SKick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\SKick.xnb</Output>
+      <Time>2014-04-08T00:17:02.4629818+01:00</Time>
+    </Item>
+    <Item>
+      <Source>LKNameplate.png</Source>
+      <Name>LKNameplate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\LKNameplate.xnb</Output>
+      <Time>2014-04-08T08:46:08.5290779+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SNameplate.png</Source>
+      <Name>SNameplate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\SNameplate.xnb</Output>
+      <Time>2014-04-08T22:03:05.7330856+01:00</Time>
+    </Item>
+    <Item>
+      <Source>title.png</Source>
+      <Name>title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\title.xnb</Output>
+      <Time>2014-04-09T01:15:07.5462313+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu Music.mp3</Source>
+      <Name>Menu Music</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\Menu Music.xnb</Output>
+      <Extra>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\Menu Music.wma</Extra>
+      <Time>2014-04-10T22:32:39.4731732+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Music.wav</Source>
+      <Name>Menu_Music</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\Menu_Music.xnb</Output>
+      <Time>2014-04-10T22:49:35.8962149+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fight_Music.wav</Source>
+      <Name>Fight_Music</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\Fight_Music.xnb</Output>
+      <Time>2014-04-10T23:05:54.5922482+01:00</Time>
+    </Item>
+    <Item>
+      <Source>AnimationStrip.png</Source>
+      <Name>AnimationStrip</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\AnimationStrip.xnb</Output>
+      <Time>2014-04-11T20:47:28.9163748+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2014-04-11T21:06:54.5993819+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Space_Invader.bmp</Source>
+      <Name>Space_Invader</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\Space_Invader.xnb</Output>
+      <Time>2014-04-18T13:19:52.2692907+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Start_Button.png</Source>
+      <Name>Start_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\Start_Button.xnb</Output>
+      <Time>2014-04-21T10:53:22.5077376+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Resume_Button.png</Source>
+      <Name>Resume_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\Resume_Button.xnb</Output>
+      <Time>2014-04-21T11:00:56.7089325+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Restart_Button.png</Source>
+      <Name>Restart_Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\Restart_Button.xnb</Output>
+      <Time>2014-04-21T11:00:54.9988133+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Pause_Screen.png</Source>
+      <Name>Pause_Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\Pause_Screen.xnb</Output>
+      <Time>2014-04-20T21:52:31.686051+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit_Button_StartScreen.png</Source>
+      <Name>Exit_Button_StartScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\Exit_Button_StartScreen.xnb</Output>
+      <Time>2014-04-21T10:54:16.0301305+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit_Button_PauseScreen.png</Source>
+      <Name>Exit_Button_PauseScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\Exit_Button_PauseScreen.xnb</Output>
+      <Time>2014-04-21T11:00:53.0907301+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Kinect_Hand.png</Source>
+      <Name>Kinect_Hand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\Kinect_Hand.xnb</Output>
+      <Time>2014-04-21T11:12:17.7235346+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_KombatContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_KombatContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-02-02T09:45:15.9334038+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

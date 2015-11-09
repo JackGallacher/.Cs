@@ -1,0 +1,2 @@
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_KombatContent\obj\x86\Release\Mortal_KombatContent.contentprojResolveAssemblyReference.cache
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_KombatContent\obj\x86\Release\Mortal_KombatContent.contentprojResolveAssemblyReference.cache

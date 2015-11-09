@@ -1,0 +1,7 @@
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA Test\Mortal_Kombat\Mortal_Kombat\Mortal_KombatContent\obj\x86\Debug\Mortal_KombatContent.contentprojResolveAssemblyReference.cache
+F:\Mortal Combat XNA Test\Mortal_Kombat\Mortal_Kombat\Mortal_KombatContent\obj\x86\Debug\Mortal_KombatContent.contentprojResolveAssemblyReference.cache
+G:\Mortal Combat XNA Test\Mortal_Kombat\Mortal_Kombat\Mortal_KombatContent\obj\x86\Debug\Mortal_KombatContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_KombatContent\obj\x86\Debug\Mortal_KombatContent.contentprojResolveAssemblyReference.cache
+F:\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_KombatContent\obj\x86\Debug\Mortal_KombatContent.contentprojResolveAssemblyReference.cache
+G:\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_KombatContent\obj\x86\Debug\Mortal_KombatContent.contentprojResolveAssemblyReference.cache
+E:\My Documents\Github\MortalKombatXNA\Mortal_Kombat\Mortal_KombatContent\obj\x86\Debug\Mortal_KombatContent.contentprojResolveAssemblyReference.cache

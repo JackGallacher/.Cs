@@ -1,0 +1,78 @@
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Scorpion.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\LiuKang.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Background.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\HealthBar.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\LKNameplate.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\SNameplate.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\title.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\AnimationStrip.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Space_Invader.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Pause_Screen.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Start_Button.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Exit_Button_StartScreen.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Exit_Button_PauseScreen.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Restart_Button.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Resume_Button.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Kinect_Hand.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\LKWins.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Fight.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\SWins.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Menu Music.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\LKPunch.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\SPunch.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\LKKick.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\SKick.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Menu_Music.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Fight_Music.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\SpriteFont1.xnb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\LKWins.wma
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Fight.wma
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\SWins.wma
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Menu Music.wma
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Mortal_Kombat.exe
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Mortal_Kombat.pdb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\obj\x86\Release\Interop.SpeechLib.dll
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\obj\x86\Release\Mortal_Kombat.csproj.ResolveComReference.cache
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\obj\x86\Release\Mortal_Kombat.exe
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\obj\x86\Release\Mortal_Kombat.pdb
+C:\Users\Jack\Desktop\Computer Graphics Assignment\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\obj\x86\Release\Mortal_Kombat.csprojResolveAssemblyReference.cache
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Scorpion.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\LiuKang.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Background.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\HealthBar.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\LKNameplate.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\SNameplate.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\title.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\AnimationStrip.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Space_Invader.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Pause_Screen.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Start_Button.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Exit_Button_StartScreen.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Exit_Button_PauseScreen.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Restart_Button.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Resume_Button.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Kinect_Hand.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\LKWins.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Fight.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\SWins.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Menu Music.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\LKPunch.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\SPunch.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\LKKick.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\SKick.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Menu_Music.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Fight_Music.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\SpriteFont1.xnb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\LKWins.wma
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Fight.wma
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\SWins.wma
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Content\Menu Music.wma
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Mortal_Kombat.exe
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\bin\x86\Release\Mortal_Kombat.pdb
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\obj\x86\Release\Mortal_Kombat.csprojResolveAssemblyReference.cache
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\obj\x86\Release\Interop.SpeechLib.dll
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\obj\x86\Release\Mortal_Kombat.csproj.ResolveComReference.cache
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\obj\x86\Release\Mortal_Kombat.exe
+E:\Program Files\Skydrive\University Year 2\Mortal Combat XNA\Mortal_Kombat\Mortal_Kombat\Mortal_Kombat\obj\x86\Release\Mortal_Kombat.pdb
