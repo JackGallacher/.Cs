@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b955b5caa5154fa46980bfc490d64429
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainCamera: {instanceID: 0}
+  - mainLight: {instanceID: 0}
+  - pfab_pollutedFish: {fileID: 100000, guid: 2896d7685e96ea9429c571d58d16c233, type: 2}
+  - pollBarBack: {fileID: 2800000, guid: 5c70f4edef6d3714dac79f9cd9603361, type: 3}
+  - pollBar: {fileID: 2800000, guid: 5fcd8b23eb477d14199803a438e0c8a6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

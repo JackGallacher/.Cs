@@ -1,0 +1,337 @@
+Initialize engine version: 4.3.0f4 (e01000627d60)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.5286]
+    Renderer: NVIDIA GeForce GTX 670
+    Vendor:   NVIDIA
+    VRAM:     1986 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\My Documents\Github\SoleSurvivor\Game\Windows\solesurvivor_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\My Documents\Github\SoleSurvivor\Game\Windows\solesurvivor_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\My Documents\Github\SoleSurvivor\Game\Windows\solesurvivor_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\My Documents\Github\SoleSurvivor\Game\Windows\solesurvivor_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Clicked Play Game
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+MainMenu:OnGUI() (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Main Menu\Scripts\MainMenu.cs:55)
+ 
+(Filename: F Line: 0)
+
+UnloadTime: 0.208446 ms
+System memory in use before: 17.2 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 14.7 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 505.
+Total: 12.213832 ms (FindLiveObjects: 0.012571 ms CreateObjectMapping: 0.008478 ms MarkObjects: 0.098814 ms  DeleteObjects: 11.646379 ms)
+
+Hit the Sea Bed
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+FloatDown:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\FloatDown.cs:69)
+ 
+(Filename: F Line: 0)
+
+Hit the Sea Bed
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+FloatDown:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\FloatDown.cs:69)
+ 
+(Filename: F Line: 0)
+
+Scale of Fish: 1.2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+playerHealth:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\playerHealth.cs:51)
+ 
+(Filename: F Line: 0)
+
+Scale of Player: 1.1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+playerHealth:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\playerHealth.cs:52)
+ 
+(Filename: F Line: 0)
+
+UnloadTime: 0.919735 ms
+System memory in use before: 14.9 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 14.8 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 507.
+Total: 0.630308 ms (FindLiveObjects: 0.012863 ms CreateObjectMapping: 0.009355 ms MarkObjects: 0.120448 ms  DeleteObjects: 0.104953 ms)
+
+Hit the Sea Bed
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+FloatDown:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\FloatDown.cs:69)
+ 
+(Filename: F Line: 0)
+
+Hit the Sea Bed
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+FloatDown:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\FloatDown.cs:69)
+ 
+(Filename: F Line: 0)
+
+Hit the Sea Bed
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+FloatDown:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\FloatDown.cs:69)
+ 
+(Filename: F Line: 0)
+
+Hit the Sea Bed
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+FloatDown:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\FloatDown.cs:69)
+ 
+(Filename: F Line: 0)
+
+Hit the Sea Bed
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+FloatDown:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\FloatDown.cs:69)
+ 
+(Filename: F Line: 0)
+
+Hit the Sea Bed
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+FloatDown:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\FloatDown.cs:69)
+ 
+(Filename: F Line: 0)
+
+Hit the Sea Bed
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+FloatDown:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\FloatDown.cs:69)
+ 
+(Filename: F Line: 0)
+
+Hit the Sea Bed
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+FloatDown:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\FloatDown.cs:69)
+ 
+(Filename: F Line: 0)
+
+Colliding with powerup
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+PlayerScript:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\PlayerScript.cs:233)
+ 
+(Filename: F Line: 0)
+
+Scale of Fish: 1.2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+playerHealth:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\playerHealth.cs:51)
+ 
+(Filename: F Line: 0)
+
+Scale of Player: 1.1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+playerHealth:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\playerHealth.cs:52)
+ 
+(Filename: F Line: 0)
+
+UnloadTime: 0.876760 ms
+System memory in use before: 14.9 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 14.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 507.
+Total: 0.594933 ms (FindLiveObjects: 0.012278 ms CreateObjectMapping: 0.008478 ms MarkObjects: 0.118986 ms  DeleteObjects: 0.070164 ms)
+
+Hit the Sea Bed
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+FloatDown:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\FloatDown.cs:69)
+ 
+(Filename: F Line: 0)
+
+Hit the Sea Bed
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+FloatDown:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\FloatDown.cs:69)
+ 
+(Filename: F Line: 0)
+
+Scale of Fish: 1.2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+playerHealth:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\playerHealth.cs:51)
+ 
+(Filename: F Line: 0)
+
+Scale of Player: 1.1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+playerHealth:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\playerHealth.cs:52)
+ 
+(Filename: F Line: 0)
+
+UnloadTime: 0.992238 ms
+System memory in use before: 14.9 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 14.8 MB.
+
+Unloading 57 unused Assets to reduce memory usage. Loaded Objects now: 507.
+Total: 0.766543 ms (FindLiveObjects: 0.013448 ms CreateObjectMapping: 0.012863 ms MarkObjects: 0.125418 ms  DeleteObjects: 0.230664 ms)
+
+Hit the Sea Bed
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+FloatDown:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\FloatDown.cs:69)
+ 
+(Filename: F Line: 0)
+
+Hit the Sea Bed
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+FloatDown:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\FloatDown.cs:69)
+ 
+(Filename: F Line: 0)
+
+Scale of Fish: 1.2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+playerHealth:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\playerHealth.cs:51)
+ 
+(Filename: F Line: 0)
+
+Scale of Player: 1.1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+playerHealth:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\playerHealth.cs:52)
+ 
+(Filename: F Line: 0)
+
+UnloadTime: 0.932891 ms
+System memory in use before: 14.9 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 14.8 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 507.
+Total: 0.665098 ms (FindLiveObjects: 0.012863 ms CreateObjectMapping: 0.010524 ms MarkObjects: 0.134773 ms  DeleteObjects: 0.122787 ms)
+
+Scale of Fish: 1.2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+playerHealth:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\playerHealth.cs:51)
+ 
+(Filename: F Line: 0)
+
+Scale of Player: 1.1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+playerHealth:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\playerHealth.cs:52)
+ 
+(Filename: F Line: 0)
+
+UnloadTime: 0.955694 ms
+System memory in use before: 14.9 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 14.8 MB.
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 507.
+Total: 0.662174 ms (FindLiveObjects: 0.013155 ms CreateObjectMapping: 0.010524 ms MarkObjects: 0.133019 ms  DeleteObjects: 0.121325 ms)
+
+Scale of Fish: 1.2
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+playerHealth:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\playerHealth.cs:51)
+ 
+(Filename: F Line: 0)
+
+Scale of Player: 1.1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+playerHealth:OnTriggerEnter2D(Collider2D) (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Scripts\playerHealth.cs:52)
+ 
+(Filename: F Line: 0)
+
+UnloadTime: 1.004225 ms
+System memory in use before: 17.2 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 12.3 MB.
+
+Unloading 319 unused Assets to reduce memory usage. Loaded Objects now: 130.
+Total: 1.334289 ms (FindLiveObjects: 0.009939 ms CreateObjectMapping: 0.009355 ms MarkObjects: 0.104661 ms  DeleteObjects: 0.826768 ms)
+
+Clicked Credits
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+MainMenu:OnGUI() (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Main Menu\Scripts\MainMenu.cs:63)
+ 
+(Filename: F Line: 0)
+
+UnloadTime: 0.214000 ms
+System memory in use before: 12.2 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 12.2 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 127.
+Total: 0.505766 ms (FindLiveObjects: 0.004969 ms CreateObjectMapping: 0.005262 ms MarkObjects: 0.097352 ms  DeleteObjects: 0.012278 ms)
+
+Clicked Return Button
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+Credits:OnGUI() (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Credits\Scripts\Credits.cs:16)
+ 
+(Filename: F Line: 0)
+
+UnloadTime: 0.184181 ms
+System memory in use before: 12.2 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 12.2 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 126.
+Total: 0.521553 ms (FindLiveObjects: 0.004969 ms CreateObjectMapping: 0.007016 ms MarkObjects: 0.118109 ms  DeleteObjects: 0.007893 ms)
+
+Clicked Exit Game
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+UnityEngine.MonoBehaviour:print(Object)
+MainMenu:OnGUI() (at F:\Users\jayflict\Desktop\Group Project 2014\trunk\Sole Survivor 2D\Assets\Main Menu\Scripts\MainMenu.cs:59)
+ 
+(Filename: F Line: 0)
+

@@ -1,0 +1,34 @@
+﻿<xapCache source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Bin\ARM\Release\SoleSurvivor2D_Release_ARM.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="30/04/2014 13:52:20">
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\obj\ARM\Release\SoleSurvivor2D.dll" archivePath="SoleSurvivor2D.dll" lastWriteTime="30/04/2014 13:52:14" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="06/01/2014 16:31:44" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="06/01/2014 16:31:44" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="06/01/2014 16:31:44" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="06/01/2014 16:31:44" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="06/01/2014 16:31:44" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="06/01/2014 16:31:44" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Data\level0" archivePath="Data\level0" lastWriteTime="30/04/2014 13:49:51" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Data\level1" archivePath="Data\level1" lastWriteTime="30/04/2014 13:49:51" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Data\mainData" archivePath="Data\mainData" lastWriteTime="30/04/2014 13:49:53" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Data\managedAssemblies.txt" archivePath="Data\managedAssemblies.txt" lastWriteTime="30/04/2014 13:50:00" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Data\PlayerConnectionConfigFile" archivePath="Data\PlayerConnectionConfigFile" lastWriteTime="30/04/2014 13:49:54" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Data\Resources\unity default resources" archivePath="Data\Resources\unity default resources" lastWriteTime="12/01/2014 11:10:28" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Data\Resources\unity_builtin_extra" archivePath="Data\Resources\unity_builtin_extra" lastWriteTime="30/04/2014 13:49:54" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Data\sharedassets0.assets" archivePath="Data\sharedassets0.assets" lastWriteTime="30/04/2014 13:49:53" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Data\sharedassets1.assets" archivePath="Data\sharedassets1.assets" lastWriteTime="30/04/2014 13:49:54" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Data\sharedassets2.assets" archivePath="Data\sharedassets2.assets" lastWriteTime="30/04/2014 13:49:54" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Bin\ARM\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="30/04/2014 13:52:15" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Bin\ARM\Release\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="06/01/2014 16:31:44" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Bin\ARM\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="06/01/2014 16:31:44" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Assembly-CSharp.dll" archivePath="Assembly-CSharp.dll" lastWriteTime="30/04/2014 13:50:00" />
+  <file source="D:\Desktop\Soul Survivor WP\Players\ARM\Release\BridgeInterface.winmd" archivePath="BridgeInterface.winmd" lastWriteTime="23/01/2014 00:54:56" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\UnityEngine.dll" archivePath="UnityEngine.dll" lastWriteTime="30/04/2014 13:49:57" />
+  <file source="D:\Desktop\Soul Survivor WP\Players\ARM\Release\UnityEngineDelegates.winmd" archivePath="UnityEngineDelegates.winmd" lastWriteTime="23/01/2014 00:54:56" />
+  <file source="D:\Desktop\Soul Survivor WP\Players\ARM\Release\UnityEngineProxy.dll" archivePath="UnityEngineProxy.dll" lastWriteTime="23/01/2014 00:55:00" />
+  <file source="D:\Desktop\Soul Survivor WP\Players\ARM\Release\UnityPlayer.winmd" archivePath="UnityPlayer.winmd" lastWriteTime="23/01/2014 01:02:18" />
+  <file source="D:\Desktop\Soul Survivor WP\Players\ARM\Release\WinRTBridge.dll" archivePath="WinRTBridge.dll" lastWriteTime="23/01/2014 00:54:58" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\WinRTLegacy.dll" archivePath="WinRTLegacy.dll" lastWriteTime="30/04/2014 13:49:59" />
+  <file source="D:\Desktop\Soul Survivor WP\Players\ARM\Release\BridgeInterface.dll" archivePath="BridgeInterface.dll" lastWriteTime="23/01/2014 00:54:56" />
+  <file source="D:\Desktop\Soul Survivor WP\Players\ARM\Release\UnityEngineDelegates.dll" archivePath="UnityEngineDelegates.dll" lastWriteTime="23/01/2014 00:54:56" />
+  <file source="D:\Desktop\Soul Survivor WP\Players\ARM\Release\UnityPlayer.dll" archivePath="UnityPlayer.dll" lastWriteTime="23/01/2014 01:02:52" />
+  <file source="D:\Desktop\Soul Survivor WP\SoleSurvivor2D\Bin\ARM\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="30/04/2014 13:52:16" />
+</xapCache>

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1da160fced50bb94baf29e4bd8f51894
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - healthBarFront: {instanceID: 0}
+  - healthBarBack: {instanceID: 0}
+  - yuck: {instanceID: 0}
+  - yum: {instanceID: 0}
+  - eatSound: {fileID: 8300000, guid: 40f5841ae9e38d5439aae724de32038e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

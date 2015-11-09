@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 7b7493a73a202f44c99d3af7b918fc82
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundTexture: {instanceID: 0}
+  - hoverSound: {fileID: 8300000, guid: 690ba2c689d264a4e86a8dace726a9c3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
