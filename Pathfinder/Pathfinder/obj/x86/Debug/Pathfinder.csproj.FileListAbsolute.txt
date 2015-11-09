@@ -1,0 +1,242 @@
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.exe
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.pdb
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.dll
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.xml
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+C:\Users\Patrick\Dropbox\Patrick\Dev Projects\Monogame\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.exe
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.pdb
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\MonoGame.Framework.dll
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.dll
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\Lidgren.Network.dll
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.dll
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.xml
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.xml
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\LocalDevArea\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\LocalDevArea\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+C:\LocalDevArea\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.exe
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.pdb
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.dll
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.xml
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+C:\Users\Patrick\Desktop\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.exe
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.pdb
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.dll
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.xml
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Patrick\Desktop\pman2\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.exe
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.pdb
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.dll
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.xml
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\computing\Desktop\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.exe
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.pdb
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.dll
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Jack\Desktop\Game Engines\Workshops\Game Engines Workshop 1\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.exe
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.pdb
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\Pathfinder\Pathfinder\bin\Windows\Debug\Content\Font.xnb
+F:\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+F:\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+F:\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\Content\Font.xnb
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.exe
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.pdb
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.dll
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+H:\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\Content\Font.xnb
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.exe
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\Pathfinder.pdb
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.dll
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.dll
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.dll
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.dll
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.dll
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.dll
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.dll
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.dll
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\MonoGame.Framework.xml
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.xml
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.xml
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.xml
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.xml
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.XInput.xml
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.xml
+H:\Pathfinder\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\obj\x86\Debug\Pathfinder.exe
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\Content\Font.xnb
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\Pathfinder.exe
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\Pathfinder.pdb
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\SharpDX.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Jack\Desktop\Game Engines\Assignments\Assignment 2\GAL11266257_CGP3001M_Item1\Pathfinder\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Desktop\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+C:\Users\Jack\Desktop\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+C:\Users\Jack\Desktop\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
+E:\My Documents\Github\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.exe
+E:\My Documents\Github\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.pdb
+E:\My Documents\Github\Pathfinder\Pathfinder\obj\x86\Debug\Pathfinder.csprojResolveAssemblyReference.cache
