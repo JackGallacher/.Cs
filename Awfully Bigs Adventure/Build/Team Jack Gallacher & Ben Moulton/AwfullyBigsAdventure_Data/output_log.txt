@@ -1,0 +1,43 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.5012]
+    Renderer: NVIDIA GeForce GTX 670
+    Vendor:   NVIDIA
+    VRAM:     1987 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\My Documents\Github\AwfullyBigsAdventure\Build\Team Jack Gallacher & Ben Moulton\AwfullyBigsAdventure_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\My Documents\Github\AwfullyBigsAdventure\Build\Team Jack Gallacher & Ben Moulton\AwfullyBigsAdventure_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\My Documents\Github\AwfullyBigsAdventure\Build\Team Jack Gallacher & Ben Moulton\AwfullyBigsAdventure_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\My Documents\Github\AwfullyBigsAdventure\Build\Team Jack Gallacher & Ben Moulton\AwfullyBigsAdventure_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\My Documents\Github\AwfullyBigsAdventure\Build\Team Jack Gallacher & Ben Moulton\AwfullyBigsAdventure_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\My Documents\Github\AwfullyBigsAdventure\Build\Team Jack Gallacher & Ben Moulton\AwfullyBigsAdventure_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.257561 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 408.
+Total: 5.737102 ms (FindLiveObjects: 0.008478 ms CreateObjectMapping: 0.006724 ms MarkObjects: 0.085366 ms  DeleteObjects: 5.301206 ms)
+
+ArgumentException: The thing you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original) [0x00000] in <filename unknown>:0 
+  at Spawn.SpawnRandomObject () [0x00000] in <filename unknown>:0 
+  at Spawn.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 0.378887 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 169 unused Assets to reduce memory usage. Loaded Objects now: 179.
+Total: 8.074742 ms (FindLiveObjects: 0.006431 ms CreateObjectMapping: 0.006139 ms MarkObjects: 0.067533 ms  DeleteObjects: 7.692640 ms)
+
+clicked quit game
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
