@@ -1,0 +1,6 @@
+E:\My Documents\Github\TopTrumps\TopTrumps\TopTrumps\bin\Debug\TopTrumps.exe.config
+E:\My Documents\Github\TopTrumps\TopTrumps\TopTrumps\bin\Debug\TopTrumps.exe
+E:\My Documents\Github\TopTrumps\TopTrumps\TopTrumps\bin\Debug\TopTrumps.pdb
+E:\My Documents\Github\TopTrumps\TopTrumps\TopTrumps\obj\Debug\TopTrumps.csprojResolveAssemblyReference.cache
+E:\My Documents\Github\TopTrumps\TopTrumps\TopTrumps\obj\Debug\TopTrumps.exe
+E:\My Documents\Github\TopTrumps\TopTrumps\TopTrumps\obj\Debug\TopTrumps.pdb
