@@ -1,0 +1,12 @@
+E:\My Documents\Github\Level1Programming\C# Demonstrating\9 - Exception Handling\9 - Exception Handling\bin\Debug\9 - Exception Handling.exe.config
+E:\My Documents\Github\Level1Programming\C# Demonstrating\9 - Exception Handling\9 - Exception Handling\bin\Debug\9 - Exception Handling.exe
+E:\My Documents\Github\Level1Programming\C# Demonstrating\9 - Exception Handling\9 - Exception Handling\bin\Debug\9 - Exception Handling.pdb
+E:\My Documents\Github\Level1Programming\C# Demonstrating\9 - Exception Handling\9 - Exception Handling\obj\Debug\9 - Exception Handling.csprojResolveAssemblyReference.cache
+E:\My Documents\Github\Level1Programming\C# Demonstrating\9 - Exception Handling\9 - Exception Handling\obj\Debug\9 - Exception Handling.exe
+E:\My Documents\Github\Level1Programming\C# Demonstrating\9 - Exception Handling\9 - Exception Handling\obj\Debug\9 - Exception Handling.pdb
+E:\My Documents\Github\Csharp\C# Demonstrating\9 - Exception Handling\9 - Exception Handling\bin\Debug\9 - Exception Handling.exe.config
+E:\My Documents\Github\Csharp\C# Demonstrating\9 - Exception Handling\9 - Exception Handling\obj\Debug\9 - Exception Handling.exe
+E:\My Documents\Github\Csharp\C# Demonstrating\9 - Exception Handling\9 - Exception Handling\obj\Debug\9 - Exception Handling.pdb
+E:\My Documents\Github\Csharp\C# Demonstrating\9 - Exception Handling\9 - Exception Handling\bin\Debug\9 - Exception Handling.exe
+E:\My Documents\Github\Csharp\C# Demonstrating\9 - Exception Handling\9 - Exception Handling\bin\Debug\9 - Exception Handling.pdb
+E:\My Documents\Github\Csharp\C# Demonstrating\9 - Exception Handling\9 - Exception Handling\obj\Debug\9 - Exception Handling.csprojResolveAssemblyReference.cache
