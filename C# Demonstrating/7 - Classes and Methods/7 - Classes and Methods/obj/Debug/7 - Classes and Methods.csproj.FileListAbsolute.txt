@@ -4,3 +4,5 @@ E:\My Documents\Github\Level1Programming\C# Demonstrating\7 - Classes and Method
 E:\My Documents\Github\Level1Programming\C# Demonstrating\7 - Classes and Methods\7 - Classes and Methods\obj\Debug\7 - Classes and Methods.csprojResolveAssemblyReference.cache
 E:\My Documents\Github\Level1Programming\C# Demonstrating\7 - Classes and Methods\7 - Classes and Methods\obj\Debug\7 - Classes and Methods.exe
 E:\My Documents\Github\Level1Programming\C# Demonstrating\7 - Classes and Methods\7 - Classes and Methods\obj\Debug\7 - Classes and Methods.pdb
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\7 - Classes and Methods\7 - Classes and Methods\bin\Debug\7 - Classes and Methods.exe.config
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\7 - Classes and Methods\7 - Classes and Methods\obj\Debug\7 - Classes and Methods.pdb

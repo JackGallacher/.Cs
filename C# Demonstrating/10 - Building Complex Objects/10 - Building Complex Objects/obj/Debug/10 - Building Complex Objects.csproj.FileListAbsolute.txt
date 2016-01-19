@@ -1,0 +1,6 @@
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\10 - Building Complex Objects\10 - Building Complex Objects\bin\Debug\10 - Building Complex Objects.exe.config
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\10 - Building Complex Objects\10 - Building Complex Objects\bin\Debug\10 - Building Complex Objects.exe
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\10 - Building Complex Objects\10 - Building Complex Objects\bin\Debug\10 - Building Complex Objects.pdb
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\10 - Building Complex Objects\10 - Building Complex Objects\obj\Debug\10 - Building Complex Objects.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\10 - Building Complex Objects\10 - Building Complex Objects\obj\Debug\10 - Building Complex Objects.exe
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\10 - Building Complex Objects\10 - Building Complex Objects\obj\Debug\10 - Building Complex Objects.pdb
