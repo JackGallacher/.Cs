@@ -1,0 +1,6 @@
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\11 - Using Arrays To Create Stacks\11 - Using Arrays To Create Stacks\bin\Debug\11 - Using Arrays To Create Stacks.exe.config
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\11 - Using Arrays To Create Stacks\11 - Using Arrays To Create Stacks\bin\Debug\11 - Using Arrays To Create Stacks.exe
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\11 - Using Arrays To Create Stacks\11 - Using Arrays To Create Stacks\bin\Debug\11 - Using Arrays To Create Stacks.pdb
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\11 - Using Arrays To Create Stacks\11 - Using Arrays To Create Stacks\obj\Debug\11 - Using Arrays To Create Stacks.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\11 - Using Arrays To Create Stacks\11 - Using Arrays To Create Stacks\obj\Debug\11 - Using Arrays To Create Stacks.exe
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\11 - Using Arrays To Create Stacks\11 - Using Arrays To Create Stacks\obj\Debug\11 - Using Arrays To Create Stacks.pdb
