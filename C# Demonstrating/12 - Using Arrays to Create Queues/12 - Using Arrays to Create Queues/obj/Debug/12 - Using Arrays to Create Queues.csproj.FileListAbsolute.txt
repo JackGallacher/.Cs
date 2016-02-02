@@ -1,0 +1,6 @@
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\12 - Using Arrays to Create Queues\12 - Using Arrays to Create Queues\bin\Debug\12 - Using Arrays to Create Queues.exe.config
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\12 - Using Arrays to Create Queues\12 - Using Arrays to Create Queues\obj\Debug\12 - Using Arrays to Create Queues.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\12 - Using Arrays to Create Queues\12 - Using Arrays to Create Queues\bin\Debug\12 - Using Arrays to Create Queues.exe
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\12 - Using Arrays to Create Queues\12 - Using Arrays to Create Queues\bin\Debug\12 - Using Arrays to Create Queues.pdb
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\12 - Using Arrays to Create Queues\12 - Using Arrays to Create Queues\obj\Debug\12 - Using Arrays to Create Queues.exe
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\12 - Using Arrays to Create Queues\12 - Using Arrays to Create Queues\obj\Debug\12 - Using Arrays to Create Queues.pdb
