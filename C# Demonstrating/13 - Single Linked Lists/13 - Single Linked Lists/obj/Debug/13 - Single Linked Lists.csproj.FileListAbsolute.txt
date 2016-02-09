@@ -1,0 +1,6 @@
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\13 - Single Linked Lists\13 - Single Linked Lists\bin\Debug\13 - Single Linked Lists.exe.config
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\13 - Single Linked Lists\13 - Single Linked Lists\bin\Debug\13 - Single Linked Lists.exe
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\13 - Single Linked Lists\13 - Single Linked Lists\bin\Debug\13 - Single Linked Lists.pdb
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\13 - Single Linked Lists\13 - Single Linked Lists\obj\Debug\13 - Single Linked Lists.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\13 - Single Linked Lists\13 - Single Linked Lists\obj\Debug\13 - Single Linked Lists.exe
+C:\Users\Jack\Documents\GitHub\.Cs\C# Demonstrating\13 - Single Linked Lists\13 - Single Linked Lists\obj\Debug\13 - Single Linked Lists.pdb
