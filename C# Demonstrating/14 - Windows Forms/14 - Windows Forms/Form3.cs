@@ -12,14 +12,14 @@ namespace Workshop_14
 {
     public partial class Form3 : Form
     {
-        public string Signature;
+        public static string Signature;//What we will save our signature to.
         public Form3()
         {
             InitializeComponent();
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            Signature = richTextBox1.Text;   
+            Signature = richTextBox1.Text; //Sets it to what is in the text box on Form3.  
             this.DialogResult = DialogResult.OK;
             this.Close();
         }
