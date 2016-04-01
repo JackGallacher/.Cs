@@ -1,0 +1,6 @@
+C:\Users\Jack\Documents\GitHub\.Cs\Messing\Messing\bin\Debug\Messing.exe.config
+C:\Users\Jack\Documents\GitHub\.Cs\Messing\Messing\bin\Debug\Messing.exe
+C:\Users\Jack\Documents\GitHub\.Cs\Messing\Messing\bin\Debug\Messing.pdb
+C:\Users\Jack\Documents\GitHub\.Cs\Messing\Messing\obj\Debug\Messing.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Documents\GitHub\.Cs\Messing\Messing\obj\Debug\Messing.exe
+C:\Users\Jack\Documents\GitHub\.Cs\Messing\Messing\obj\Debug\Messing.pdb

@@ -54,7 +54,7 @@ namespace Workshop6
         }
         public static void Task_3()
         {
-            string result = " ";
+            string result = "";
             string input;
 
             Console.WriteLine("Input a string: ");
@@ -62,11 +62,12 @@ namespace Workshop6
 
             foreach(char x in input)//reverse string.
             {
-                if (x == ' ')
-                {
-                    continue;
-                }
-                result = x + " " + result;
+                //if (x == ' ')
+                //{
+                //    continue;
+                //}
+                //result = x + " " + result;
+                result = x + result;
             }
             Console.Write(result);
         }
