@@ -59,18 +59,26 @@ namespace Messing
             //myAnimal.Sound();
             //myAnimal2.Sound();
 
-            //Program myProgram = new Program();
+            Program myProgram = new Program();
             //myProgram.ReverseString("Hello, my name is Jack!");
 
-            LinkedList myList = new LinkedList();
+            //LinkedList myList = new LinkedList();
 
-            myList.Add(5);
-            myList.Add(4);
-            myList.Add(3);
-            myList.Add(2);
-            myList.Add(1);
+            //myList.Add(5);
+            //myList.Add(4);
+            //myList.Add(3);
+            //myList.Add(2);
+            //myList.Add(1);
 
-            myList.PrintNodes();
+            //myList.PrintNodes();
+
+            int[] ArrayOne = new int[5] { 1, 2, 3, 4, 5 };
+            int[] ArrayTwo = new int[5] { 2, 7, 4, 1, 9 };
+            myProgram.FindMatching(ArrayOne, ArrayTwo);
+
+
+
+
 
             Console.ReadLine();
         }
@@ -87,17 +95,18 @@ namespace Messing
 
         void FindMatching(int[] ArrayOne, int[] ArrayTwo)
         {
+            string MatchingNumbers = "";
             for(int i = 0; i < ArrayOne.Length; i++)
             {
-                for(int j = 0; j < ArrayTwo.Length; i++)
+                for(int j = 0; j < ArrayTwo.Length; j++)
                 {
-
+                    if(ArrayOne[i] == ArrayTwo[j])
+                    {
+                        MatchingNumbers = Convert.ToString(ArrayOne[i]) + " " + MatchingNumbers;
+                    }
                 }
             }
+            Console.WriteLine("Matching numbers in the two arrays are:" + MatchingNumbers);
         }
-
-
-
-
     }
 }
