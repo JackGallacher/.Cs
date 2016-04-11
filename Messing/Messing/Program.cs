@@ -40,12 +40,32 @@ namespace Messing
 
         public void PrintNodes()
         {
+            int NodeCount = 0;
+
             Node CurrentNode = Head;
             while(CurrentNode != null)
             {
-                Console.WriteLine(CurrentNode.NodeData);
+                Console.WriteLine("Node Position {0}: " + CurrentNode.NodeData, NodeCount);
                 CurrentNode = CurrentNode.NodeNext;
+                NodeCount++;
             }
+        }
+
+        public void Delete(int NodePosition)//Deletes a node from out linked list.
+        {
+            Node CurrentNode = Head;
+            int NodeCount = 0;
+
+            while(CurrentNode != null)
+            {
+                NodeCount++;
+                if(NodeCount == NodePosition)
+                {
+                    Console.WriteLine("Deleting the Node in position {0}", NodeCount);
+                    CurrentNode.NodeNext = CurrentNode.NodeNext.NodeNext;//Takes the current node, and sets its NodeNext to the NodeNext of the Node we want to delete. e.g. CurrentNode = 1 CurrentNode.NodeNext = 2 CurrentNode.NodeNext.NodeNext = 3
+                }
+                CurrentNode = CurrentNode.NodeNext;
+            }            
         }
     }
 
@@ -62,19 +82,21 @@ namespace Messing
             Program myProgram = new Program();
             //myProgram.ReverseString("Hello, my name is Jack!");
 
-            //LinkedList myList = new LinkedList();
+            LinkedList myList = new LinkedList();
 
-            //myList.Add(5);
-            //myList.Add(4);
-            //myList.Add(3);
-            //myList.Add(2);
-            //myList.Add(1);
+            myList.Add(5);
+            myList.Add(4);
+            myList.Add(3);
+            myList.Add(2);
+            myList.Add(1);
 
-            //myList.PrintNodes();
+            myList.PrintNodes();
+            myList.Delete(2);
+            myList.PrintNodes();
 
-            int[] ArrayOne = new int[5] { 1, 2, 3, 4, 5 };
-            int[] ArrayTwo = new int[5] { 2, 7, 4, 1, 9 };
-            myProgram.FindMatching(ArrayOne, ArrayTwo);
+            //int[] ArrayOne = new int[5] { 1, 2, 3, 4, 5 };
+            //int[] ArrayTwo = new int[5] { 2, 7, 4, 1, 9 };
+            //myProgram.FindMatching(ArrayOne, ArrayTwo);
 
 
 
