@@ -96,8 +96,8 @@ namespace Messing
 
             //int[] ArrayOne = new int[5] { 1, 2, 3, 4, 5 };
             //int[] ArrayTwo = new int[5] { 2, 7, 4, 1, 9 };
-            //myProgram.FindMatching(ArrayOne, ArrayTwo);
-
+            //FindMatching(ArrayOne, ArrayTwo);
+            
 
 
 
@@ -115,7 +115,7 @@ namespace Messing
             Console.WriteLine(ReversedString);
         }
 
-        void FindMatching(int[] ArrayOne, int[] ArrayTwo)
+        static void FindMatching(int[] ArrayOne, int[] ArrayTwo)
         {
             string MatchingNumbers = "";
             for(int i = 0; i < ArrayOne.Length; i++)
