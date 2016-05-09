@@ -69,6 +69,21 @@ namespace Messing
         }
     }
 
+    public class Person
+    {
+        private string _firstname;
+        public string FirstName
+        {
+            get { return _firstname; }
+            set
+            {
+               _firstname = value.Substring(0, 1).ToUpper() + value.Substring(1);//this takes the private string and applies setter conditions to it formatting the data when it is assigned to the FirstName string.
+            }
+        }
+    }
+
+
+
     class Program
     {
         static void Main(string[] args)
@@ -79,29 +94,31 @@ namespace Messing
             //myAnimal.Sound();
             //myAnimal2.Sound();
 
-            Program myProgram = new Program();
+            //Program myProgram = new Program();
             //myProgram.ReverseString("Hello, my name is Jack!");
 
-            LinkedList myList = new LinkedList();
+            //LinkedList myList = new LinkedList();
 
-            myList.Add(5);
-            myList.Add(4);
-            myList.Add(3);
-            myList.Add(2);
-            myList.Add(1);
+            //myList.Add(5);
+            //myList.Add(4);
+            //myList.Add(3);
+            //myList.Add(2);
+            //myList.Add(1);
 
-            myList.PrintNodes();
-            myList.Delete(2);
-            myList.PrintNodes();
+            //myList.PrintNodes();
+            //myList.Delete(2);
+            //myList.PrintNodes();
 
             //int[] ArrayOne = new int[5] { 1, 2, 3, 4, 5 };
             //int[] ArrayTwo = new int[5] { 2, 7, 4, 1, 9 };
             //FindMatching(ArrayOne, ArrayTwo);
+
+            Person MyPerson = new Person();
+            MyPerson.FirstName = "jack gallacher";
+            Console.WriteLine(MyPerson.FirstName);
             
-
-
-
-
+           
+            
             Console.ReadLine();
         }
 
