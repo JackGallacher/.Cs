@@ -72,16 +72,49 @@ namespace Messing
     public class Person
     {
         private string _firstname;
+        private string _lastname;
+
         public string FirstName
         {
             get { return _firstname; }
             set
             {
-               _firstname = value.Substring(0, 1).ToUpper() + value.Substring(1);//this takes the private string and applies setter conditions to it formatting the data when it is assigned to the FirstName string.
+                if(!string.IsNullOrEmpty(value))//Checks to see of the string is not null.
+                {
+                    _firstname = value.Substring(0, 1).ToUpper() + value.Substring(1);//this takes the private string and applies setter conditions to it formatting the data when it is assigned to the FirstName string.
+                }
             }
         }
+        public string LastName
+        {
+            get { return _lastname; }
+            set
+            {
+                if (!string.IsNullOrEmpty(value))//Checks to see of the string is not null.
+                {
+                    _lastname = value.Substring(0, 1).ToUpper() + value.Substring(1);//this takes the private string and applies setter conditions to it formatting the data when it is assigned to the FirstName string.
+                }
+            }
+        }
+        public string FullName
+        {
+            get { return FirstName + " " + LastName; }
+        }
+        //public string FullName()
+        //{
+        //    return FirstName + " " + LastName;
+        //}
     }
+    public class Student : Person
+    {
+        private string _studentid;
+        public string StudentID
+        {
+            get { return _studentid; }
+            set { _studentid = value; }//"value" is just whatever is passed to this variable when it is assigned. Error handling for incorrect type could be put here.
+        }
 
+    }
 
 
     class Program
@@ -114,11 +147,21 @@ namespace Messing
             //FindMatching(ArrayOne, ArrayTwo);
 
             Person MyPerson = new Person();
-            MyPerson.FirstName = "jack gallacher";
-            Console.WriteLine(MyPerson.FirstName);
+            MyPerson.FirstName = "jack";
+            MyPerson.LastName = "gallacher";
             
-           
-            
+            Console.WriteLine(MyPerson.FullName);
+            //Console.WriteLine(MyPerson.FullName());
+
+            Student MyStudent = new Student();
+            MyStudent.FirstName = "anna";
+            MyStudent.LastName = "tuffs";
+            MyStudent.StudentID = "TUFFS12345";
+            Console.WriteLine("\n" + MyStudent.FullName);
+            Console.WriteLine(MyStudent.StudentID);
+
+
+                                  
             Console.ReadLine();
         }
 
