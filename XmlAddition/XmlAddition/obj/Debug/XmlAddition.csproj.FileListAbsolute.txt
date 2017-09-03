@@ -1,0 +1,7 @@
+C:\Users\Jack\Desktop\Medium\XmlAddition\XmlAddition\bin\Debug\XmlAddition.exe.config
+C:\Users\Jack\Desktop\Medium\XmlAddition\XmlAddition\bin\Debug\XmlAddition.exe
+C:\Users\Jack\Desktop\Medium\XmlAddition\XmlAddition\bin\Debug\XmlAddition.pdb
+C:\Users\Jack\Desktop\Medium\XmlAddition\XmlAddition\obj\Debug\XmlAddition.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Desktop\Medium\XmlAddition\XmlAddition\obj\Debug\XmlAddition.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\Medium\XmlAddition\XmlAddition\obj\Debug\XmlAddition.exe
+C:\Users\Jack\Desktop\Medium\XmlAddition\XmlAddition\obj\Debug\XmlAddition.pdb

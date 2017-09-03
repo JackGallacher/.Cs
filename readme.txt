@@ -15,3 +15,7 @@ Sole Survivor - A Game where you play as a baby fish trying to survive in the ha
 Text Analysis - Takes an inputted .txt document and provides general analysis on it (word count, vowels ext.)
 
 Top Trumps - A poor implementation of a Top Trumps card game (It was my first university assignment, so I keep it.)
+
+DatabaseAddition - Creates a database, populate it then used an LINQ query to pull the data from it.
+
+XmlAddition - Reads in an xml file then adds the contents together.

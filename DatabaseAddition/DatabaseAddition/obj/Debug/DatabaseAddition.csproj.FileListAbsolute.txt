@@ -1,0 +1,11 @@
+C:\Users\Jack\Desktop\Hard\DatabaseAddition\DatabaseAddition\bin\Debug\DatabaseAddition.exe.config
+C:\Users\Jack\Desktop\Hard\DatabaseAddition\DatabaseAddition\bin\Debug\DatabaseAddition.exe
+C:\Users\Jack\Desktop\Hard\DatabaseAddition\DatabaseAddition\bin\Debug\DatabaseAddition.pdb
+C:\Users\Jack\Desktop\Hard\DatabaseAddition\DatabaseAddition\bin\Debug\EntityFramework.dll
+C:\Users\Jack\Desktop\Hard\DatabaseAddition\DatabaseAddition\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jack\Desktop\Hard\DatabaseAddition\DatabaseAddition\bin\Debug\EntityFramework.xml
+C:\Users\Jack\Desktop\Hard\DatabaseAddition\DatabaseAddition\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jack\Desktop\Hard\DatabaseAddition\DatabaseAddition\obj\Debug\DatabaseAddition.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Desktop\Hard\DatabaseAddition\DatabaseAddition\obj\Debug\DatabaseAddition.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\Hard\DatabaseAddition\DatabaseAddition\obj\Debug\DatabaseAddition.exe
+C:\Users\Jack\Desktop\Hard\DatabaseAddition\DatabaseAddition\obj\Debug\DatabaseAddition.pdb
